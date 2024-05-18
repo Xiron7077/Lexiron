@@ -1,0 +1,12 @@
+#Middleware outputs
+lex.yy.c
+main.out
+
+#Make File
+CMakeLists.txt
+
+#CMake builds
+cmake-build-debug
+
+#CLion idea files
+.idea
